@@ -45,7 +45,7 @@ I'm a passionate **Full Stack Developer** currently working as an intern at AISE
 
 ## ⚡ Fun Fact
 
-> When I’m not coding, I enjoy hiking, photography, and exploring new cuisines!  
+> When I’m not coding, I enjoy gaming and exploring new cuisines!  
 
 ---
 
