@@ -1,8 +1,5 @@
 # Hi there, I'm Priyanshu Raj! 👋
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Priyanshu6055.Priyanshu6055)
-![GitHub followers](https://img.shields.io/github/followers/Priyanshu6055?label=Follow&style=social)
-
 ---
 
 ## 🚀 About Me
