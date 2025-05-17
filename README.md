@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** currently working as an intern at AISET. I love building scalable and efficient web applications with a focus on clean code and responsive UI.
+I'm a passionate **Full Stack Developer** currently working as an intern at AISECT. I love building scalable and efficient web applications with a focus on clean code and responsive UI.
 
 ---
 
