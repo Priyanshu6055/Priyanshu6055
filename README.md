@@ -26,9 +26,9 @@ I'm a passionate **Full Stack Developer** currently working as an intern at AISE
 | Project        | Description                                                                                      | Tech Stack                                       | Live Demo / Repo                                                  |
 |----------------|--------------------------------------------------------------------------------------------------|--------------------------------------------------|-------------------------------------------------------------------|
 | **CodeColab**   | Real-time collaborative coding platform with synchronized code editing in rooms.                 | React, Node.js, Express, WebSocket, Laravel      | [Live](https://codecolab-08ca.onrender.com/) / [Repo](https://github.com/Priyanshu6055/codecolab) |
-| **Portfolio**   | Responsive portfolio site showcasing skills and projects.                                        | React, Tailwind CSS                              | [Live](https://priyanshu-raj-website-6055.vercel.app/) / [Repo](https://github.com/Priyanshu6055/portfolio) |
-| **iConnect**    | Full-stack social media app with authentication, posts, stories, and search features.           | EJS, MongoDB, Node.js, Express, Tailwind CSS     | [Repo](https://github.com/Priyanshu6055/insta-clone)                                     |
-| **College Media** | Media sharing platform with role-based authentication, chat, friend requests, and photo sharing. | Laravel, PHP, MySQL, Bootstrap                   | [Repo](https://github.com/Priyanshu6055/college-media)                                  |
+| **Portfolio**   | Responsive portfolio site showcasing skills and projects.                                        | React, Tailwind CSS                              | [Live](https://priyanshu-raj-website-6055.vercel.app/) / [Repo](https://github.com/Priyanshu6055/priyanshu-raj-website-6055) |
+| **iConnect**    | Full-stack social media app with authentication, posts, stories, and search features.           | EJS, MongoDB, Node.js, Express, Tailwind CSS     | [Repo](https://github.com/Priyanshu6055/iConnect)                                     |
+| **College Media** | Media sharing platform with role-based authentication, chat, friend requests, and photo sharing. | Laravel, PHP, MySQL, Bootstrap                   | [Repo](https://github.com/Priyanshu6055/College-Media)                                  |
 
 
 ---
