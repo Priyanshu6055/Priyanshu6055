@@ -23,11 +23,13 @@ I'm a passionate **Full Stack Developer** currently working as an intern at AISE
 
 ## 🌟 Projects
 
-| Project             | Description                                   | Link                              |
-|---------------------|-----------------------------------------------|----------------------------------|
-| [CodeColab](https://codecolab-08ca.onrender.com/) | Real-time collaborative coding platform using React, Node, Express & WebSocket | 🔗 [Live Demo & Repo](https://github.com/Priyanshu6055/codecolab)                  |
-| [Personal Portfolio](https://priyanshu-raj-website-6055.vercel.app/) | Responsive portfolio website built with React and Tailwind CSS | 🔗 [Repo](https://github.com/Priyanshu6055/portfolio)                         |
-| [Instagram Clone](https://github.com/Priyanshu6055/insta-clone) | Social media app with authentication, posts, stories, and search | 🔗 [Repo](https://github.com/Priyanshu6055/insta-clone)                         |
+| Project            | Description                                                                                  | Tech Stack                                     | Live Demo / Repo                                  |
+|--------------------|----------------------------------------------------------------------------------------------|-----------------------------------------------|-------------------------------------------------|
+| <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="20" /> **CodeColab**  | Real-time collaborative coding platform with synchronized code editing in rooms.               | React, Node.js, Express, WebSocket, Laravel     | [Live](https://codecolab-08ca.onrender.com/) / [Repo](https://github.com/Priyanshu6055/codecolab) |
+| <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="20" /> **Personal Portfolio** | Responsive portfolio site showcasing skills and projects.                                      | React, Tailwind CSS                             | [Live](https://priyanshu-raj-website-6055.vercel.app/) / [Repo](https://github.com/Priyanshu6055/portfolio) |
+| <img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="Express" width="20" /> **Instagram Clone** | Full-stack social media app with authentication, posts, stories, and search features.          | EJS, MongoDB, Node.js, Express, Tailwind CSS   | [Repo](https://github.com/Priyanshu6055/insta-clone)                                     |
+| <img src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" alt="Laravel" width="20" /> **College Media** | Media sharing platform with role-based authentication, chat, friend requests, and photo sharing.| Laravel, PHP, MySQL, Bootstrap                  | [Repo](https://github.com/Priyanshu6055/college-media)                                  |
+
 
 ---
 
