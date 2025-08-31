@@ -22,10 +22,10 @@ I'm a passionate **Full Stack Web Developer** currently working as a Software De
 
 | Project        | Description                                                                                      | Tech Stack                                       | Live Demo / Repo                                                  |
 |----------------|--------------------------------------------------------------------------------------------------|--------------------------------------------------|-------------------------------------------------------------------|
-| **CodeColab**   | Real-time collaborative coding platform with synchronized code editing in rooms.                 | React, Node.js, Express, WebSocket      | [Live](https://codecolab-08ca.onrender.com/) / [Repo](https://github.com/Priyanshu6055/codecolab) |
-| **Portfolio**   | Responsive portfolio site showcasing skills and projects.                                        | React, Tailwind CSS, Node.Js, Express.js                              | [Live](https://priyanshu-raj-website.vercel.app/) |
+| **CodeColab**   | Real-time collaborative coding platform with synchronized code editing in rooms.                 | React, Node.js, Express, WebSocket      | [Live](https://codecolab-08ca.onrender.com/) / [Repo](https://github.com/Priyanshu6055/codecolab)                                          |
+| **Portfolio**   | Responsive portfolio site showcasing skills and projects.                                        | React, Tailwind CSS, Node.Js, Express.js                              | [Live](https://priyanshu-raj-website.vercel.app/)                                                            |
 | **iConnect**    | Full-stack social media app with authentication, posts, stories, and search features.           | EJS, MongoDB, Node.js, Express, Tailwind CSS     | [Live](https://iconnect-u3b4.onrender.com/) /[Repo](https://github.com/Priyanshu6055/iConnect)                                     |
-| **College Media** | Media sharing platform with role-based authentication, chat, friend requests, and photo sharing. | Laravel, PHP, MySQL, Bootstrap                   | [Repo](https://github.com/Priyanshu6055/College-Media)                                  |
+| **Smart Expense Tracker** | AI Powered Smart Expense Tracker | React, Tailwind CSS, Node.Js, Express.js, MongoDB                   | [Live](https://smart-expense-tracker-6055.vercel.app/) / [Repo](https://github.com/Priyanshu6055/smart-expense-tracker.git)                               |
 
 
 ---
