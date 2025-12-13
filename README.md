@@ -4,7 +4,13 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Web Developer** currently working as a Software Developer at AISECT. I love building scalable and efficient web applications with a focus on clean code and responsive UI.
+I’m a **Software Developer at AISECT** with a background in **Computer Science Engineering (CSE)**, passionate about building **scalable, secure, and production-ready web applications**. I enjoy working across the stack, with a strong focus on **backend architecture, role-based access control (RBAC), authentication systems, and real-world workflows**.
+
+In my professional and personal projects, I have built systems such as an **AI-powered Smart Expense Tracker** and an **enterprise-style Hostel Management Software**, where I implemented features like **JWT authentication, approval workflows, database design, and performance-optimized APIs**. I focus on writing **clean, maintainable code** and following **best practices** to ensure long-term scalability.
+
+I am particularly interested in **system design, RESTful APIs, and cloud-ready deployments**, and I continuously work on improving my skills in **modern JavaScript frameworks, Laravel, and backend development**. I believe in learning by building, and I enjoy solving real-world problems through technology.
+
+Currently, I’m focused on **growing as a software engineer**, deepening my understanding of **backend systems and DevOps fundamentals**, and contributing to impactful products that improve efficiency and user experience.
 
 ---
 
