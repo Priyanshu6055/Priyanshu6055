@@ -8,7 +8,7 @@ I’m a **Software Developer at AISECT** with a background in **Computer Science
 
 In my professional and personal projects, I have built systems such as an **AI-powered Smart Expense Tracker** and an **enterprise-style Hostel Management Software**, where I implemented features like **JWT authentication, approval workflows, database design, and performance-optimized APIs**. I focus on writing **clean, maintainable code** and following **best practices** to ensure long-term scalability.
 
-I am particularly interested in **system design, RESTful APIs, and cloud-ready deployments**, and I continuously work on improving my skills in **modern JavaScript frameworks, Laravel, and backend development**. I believe in learning by building, and I enjoy solving real-world problems through technology.
+I am particularly interested in **system design, RESTful APIs, and cloud-ready deployments**, and I continuously work on improving my skills in **modern JavaScript frameworks, and backend development**. I believe in learning by building, and I enjoy solving real-world problems through technology.
 
 Currently, I’m focused on **growing as a software engineer**, deepening my understanding of **backend systems and DevOps fundamentals**, and contributing to impactful products that improve efficiency and user experience.
 
