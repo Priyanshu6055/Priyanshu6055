@@ -4,13 +4,13 @@
 
 ## 🚀 About Me
 
-I’m a **Software Developer at AISECT** with a background in **Computer Science Engineering (CSE)**, passionate about building **scalable, secure, and production-ready web applications**. I enjoy working across the stack, with a strong focus on **backend architecture, role-based access control (RBAC), authentication systems, and real-world workflows**.
+I’m a **Software Developer** with a background in **Computer Science Engineering (CSE)**, passionate about building **scalable, secure, and reliable web applications**. I enjoy working across different layers of an application, with a strong emphasis on **clean architecture, access control, authentication, and real-world system workflows**.
 
-In my professional and personal projects, I have built systems such as an **AI-powered Smart Expense Tracker** and an **enterprise-style Hostel Management Software**, where I implemented features like **JWT authentication, approval workflows, database design, and performance-optimized APIs**. I focus on writing **clean, maintainable code** and following **best practices** to ensure long-term scalability.
+Through professional and personal projects, I have worked on **end-to-end application development**, implementing features such as **secure authentication, structured approval flows, efficient database design, and performance-focused APIs**. I prioritize writing **clean, maintainable, and well-structured code**, following best practices that support long-term scalability and ease of maintenance.
 
-I am particularly interested in **system design, RESTful APIs, and cloud-ready deployments**, and I continuously work on improving my skills in **modern JavaScript frameworks, and backend development**. I believe in learning by building, and I enjoy solving real-world problems through technology.
+I have a keen interest in **system design, RESTful services, and cloud-ready application development**, and I continuously strive to improve my skills in **modern web technologies and backend engineering**. I strongly believe in learning by building and enjoy applying technology to solve practical, real-world problems.
 
-Currently, I’m focused on **growing as a software engineer**, deepening my understanding of **backend systems and DevOps fundamentals**, and contributing to impactful products that improve efficiency and user experience.
+Currently, I am focused on **growing as a software engineer**, strengthening my understanding of **backend systems, deployment practices, and DevOps fundamentals**, and contributing to products that deliver meaningful value and positive user experiences.
 
 ---
 
