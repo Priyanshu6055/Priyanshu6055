@@ -28,11 +28,10 @@ Currently, I am focused on **growing as a software engineer**, strengthening my 
 
 | Project | Description | Tech Stack | Live Demo / Repo |
 |--------|-------------|------------|------------------|
-| **Smart Expense Tracker** ⭐ | AI-powered expense & income tracking system with JWT auth, category analytics, and smart budget insights; reduced manual budgeting by ~90%. | React, Node.js, Express.js, MongoDB, JWT | [Live](https://smart-expense-tracker-6055.vercel.app/) / [Repo](https://github.com/Priyanshu6055/smart-expense-tracker.git) |
+| **ExpenseIQ (Smart Expense Tracker)** ⭐ | Smart expense & income tracker with **group split**, **chat-based expense flow**, **visual analytics**, **UPI intent payments**, **JWT auth**, and budget insights for better money control. | React, Node.js, Express.js, MongoDB, JWT | [Live](https://smart-expense-tracker-6055.vercel.app/) / [Repo](https://github.com/Priyanshu6055/smart-expense-tracker.git) |
+| **CodeColab** ⭐ | Real-time collaborative code editor with **JWT auth**, **WebSocket syncing**, **cursor awareness**, **live console output**, and **group voice chat** inside rooms. | React, WebSocket, Node.js, JWT | [Live](https://codecolab-08ca.onrender.com/) / [Repo](https://github.com/Priyanshu6055/codecolab) |
 | **Hostel Management Software** ⭐ | Enterprise-style hostel management system with RBAC, authentication, approvals, room allocation, and fee/waiver workflows following real institutional processes. | Laravel, PHP, MySQL, Blade, RBAC | [Repo](https://github.com/Priyanshu6055/hostal-management-software.git) |
-| **CodeColab** | Frontend-focused real-time collaborative code editor using WebSockets with live syncing and multi-user presence. | React, WebSocket | [Live](https://codecolab-08ca.onrender.com/) / [Repo](https://github.com/Priyanshu6055/codecolab) |
 | **Portfolio** | Responsive personal portfolio showcasing projects, skills, and UI/UX design. | React, Tailwind CSS | [Live](https://priyanshu-raj-website.vercel.app/) |
-| **iConnect** | Simple full-stack social media clone with authentication, posts, and user interactions. | Node.js, Express, MongoDB, EJS | [Live](https://iconnect-u3b4.onrender.com/) / [Repo](https://github.com/Priyanshu6055/iConnect) |
 
 ---
 
