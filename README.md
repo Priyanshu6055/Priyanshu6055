@@ -4,13 +4,8 @@
 
 ## 🚀 About Me
 
-I’m a **Software Developer** with a background in **Computer Science Engineering (CSE)**, passionate about building **scalable, secure, and reliable web applications**. I enjoy working across different layers of an application, with a strong emphasis on **clean architecture, access control, authentication, and real-world system workflows**.
-
-Through professional and personal projects, I have worked on **end-to-end application development**, implementing features such as **secure authentication, structured approval flows, efficient database design, and performance-focused APIs**. I prioritize writing **clean, maintainable, and well-structured code**, following best practices that support long-term scalability and ease of maintenance.
-
-I have a keen interest in **system design, RESTful services, and cloud-ready application development**, and I continuously strive to improve my skills in **modern web technologies and backend engineering**. I strongly believe in learning by building and enjoy applying technology to solve practical, real-world problems.
-
-Currently, I am focused on **growing as a software engineer**, strengthening my understanding of **backend systems, deployment practices, and DevOps fundamentals**, and contributing to products that deliver meaningful value and positive user experiences.
+I’m a Software Developer with strong experience in building scalable, production-grade web applications using **Next.js**, **MERN stack**, **Laravel**, and **SQL**.  
+I’m skilled in **system design**, **RESTful API development**, **authentication**, **performance optimization**, and **cloud-ready deployments**.
 
 ---
 
