@@ -28,9 +28,10 @@ Currently, I am focused on **growing as a software engineer**, strengthening my 
 
 | Project | Description | Tech Stack | Live Demo / Repo |
 |--------|-------------|------------|------------------|
-| **ExpenseIQ (Smart Expense Tracker)** ⭐ | Smart expense & income tracker with **group split**, **chat-based expense flow**, **visual analytics**, **UPI intent payments**, **JWT auth**, and budget insights for better money control. | React, Node.js, Express.js, MongoDB, JWT | [Live](https://smart-expense-tracker-6055.vercel.app/) / [Repo](https://github.com/Priyanshu6055/smart-expense-tracker.git) |
+| **ExpenseIQ ** ⭐ | Smart expense & income tracker with **group split**, **chat-based expense flow**, **visual analytics**, **UPI intent payments**, **JWT auth**, and **AI-based budget & spending suggestions** for better money control. | React, Node.js, Express.js, MongoDB, JWT | [Live](https://smart-expense-tracker-6055.vercel.app/) / [Repo](https://github.com/Priyanshu6055/smart-expense-tracker.git) |
 | **CodeColab** ⭐ | Real-time collaborative code editor with **JWT auth**, **WebSocket syncing**, **cursor awareness**, **live console output**, and **group voice chat** inside rooms. | React, WebSocket, Node.js, JWT | [Live](https://codecolab-08ca.onrender.com/) / [Repo](https://github.com/Priyanshu6055/codecolab) |
 | **Hostel Management Software** ⭐ | Enterprise-style hostel management system with RBAC, authentication, approvals, room allocation, and fee/waiver workflows following real institutional processes. | Laravel, PHP, MySQL, Blade, RBAC | [Repo](https://github.com/Priyanshu6055/hostal-management-software.git) |
+| **Personalized AI Assistant & Automation** ⭐ | AI assistant that helps users with **personalized recommendations**, **smart automations**, reminders, and productivity flows with a clean interactive UI. | React, Node.js, Express.js, MongoDB, AI APIs | [Repo](#) |
 | **Portfolio** | Responsive personal portfolio showcasing projects, skills, and UI/UX design. | React, Tailwind CSS | [Live](https://priyanshu-raj-website.vercel.app/) |
 
 ---
