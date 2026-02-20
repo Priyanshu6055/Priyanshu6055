@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I’m a Software Developer with strong experience in building scalable, production-grade web applications using **Next.js**, **MERN stack**, **Laravel**, and **SQL**.  
+I’m a Software Developer with strong experience in building scalable, production-grade web applications using **MERN stack**, **Next.js**, **Laravel**, and **SQL**.  
 I’m skilled in **system design**, **RESTful API development**, **authentication**, **performance optimization**, and **cloud-ready deployments**.
 
 ---
