@@ -28,7 +28,7 @@ I’m skilled in **system design**, **RESTful API development**, **authenticatio
 - 🤖 AI integrations using **OpenAI APIs, LangChain**
 - 🧠 Experience with **AI workflows & agents (Antigravity, prompt engineering)**
 
-## 🌟 Projects
+## 🌟 Highlighted Projects
 
 | Project | Description | Tech Stack | Live Demo / Repo |
 |--------|-------------|------------|------------------|
