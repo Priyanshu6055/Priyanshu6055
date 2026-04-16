@@ -21,13 +21,6 @@ I’m skilled in **system design**, **RESTful API development**, **authenticatio
 
 ---
 
-### 🚀 Highlights
-- ⚡ Full-stack development with **MERN + Next.js**
-- ☁️ Deployment & scaling using **AWS, Docker, Nginx**
-- 🔄 CI/CD pipelines with **GitHub Actions**
-- 🤖 AI integrations using **OpenAI APIs, LangChain**
-- 🧠 Experience with **AI workflows & agents (Antigravity, prompt engineering)**
-
 ## 🌟 Highlighted Projects
 
 | Project | Description | Tech Stack | Live Demo / Repo |
