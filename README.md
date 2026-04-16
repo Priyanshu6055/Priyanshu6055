@@ -13,11 +13,11 @@ I’m skilled in **system design**, **RESTful API development**, **authenticatio
 
 | Focus Area | Technologies |
 |------------|-------------|
-| 🚀 Core | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge) &nbsp; ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge) &nbsp; ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge) &nbsp; ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge) &nbsp; ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge) |
+| 🚀 Core | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge) &nbsp; ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge) &nbsp; ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge) &nbsp; ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge) |
 | ⚡ Real-time Systems | ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socket.io&logoColor=white&style=for-the-badge) &nbsp; ![WebSockets](https://img.shields.io/badge/WebSockets-4A90E2?style=for-the-badge) |
 | ☁️ DevOps | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge) &nbsp; ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge) &nbsp; ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge) &nbsp; ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge) |
-| 🗄️ Database | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge) &nbsp; ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge) |
-| 🤖 AI Exposure | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge) &nbsp; ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge) |
+| 🗄️ Database | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge) &nbsp; ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge) &nbsp; |
+| 🤖 AI & APIs | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge) &nbsp; ![AI_APIs](https://img.shields.io/badge/AI_APIs-FF6F00?style=for-the-badge) &nbsp; |
 
 ---
 
